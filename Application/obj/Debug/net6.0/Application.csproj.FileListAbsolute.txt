@@ -1,0 +1,56 @@
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\bin\Debug\net6.0\Application.deps.json
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\bin\Debug\net6.0\Application.dll
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\bin\Debug\net6.0\Application.pdb
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\obj\Debug\net6.0\Application.dll
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\obj\Debug\net6.0\refint\Application.dll
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\obj\Debug\net6.0\Application.pdb
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+D:\Fonti\CURSOS Y PASANTIAS\PIL (Kinetic)\KINETIC\Citenik - KINETIC\citenik-backend\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\Rama\source\repos\citenik-backend\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Rama\source\repos\citenik-backend\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\Rama\source\repos\citenik-backend\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Rama\source\repos\citenik-backend\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Rama\source\repos\citenik-backend\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Rama\source\repos\citenik-backend\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rama\source\repos\citenik-backend\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Rama\source\repos\citenik-backend\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Rama\source\repos\citenik-backend\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Rama\source\repos\citenik-backend\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Rama\source\repos\citenik-backend\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Rama\source\repos\citenik-backend\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Rama\source\repos\citenik-backend\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\Rama\source\repos\citenik-backend\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\bin\Debug\net6.0\Application.dll
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\obj\Debug\net6.0\Application.dll
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\cruzr\OneDrive\Documentos\KAREN\repo_backend\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\bin\Debug\net6.0\Application.dll
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\obj\Debug\net6.0\Application.dll
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\karen\OneDrive\Documentos\_Documentos de Karen\_KINETIC_\Citenik_Back\citenik-backend\Application\obj\Debug\net6.0\ref\Application.dll

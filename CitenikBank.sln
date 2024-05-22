@@ -1,0 +1,41 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CitenikBank", "CitenikBank\CitenikBank.csproj", "{ADCB472E-528F-44E0-9DB3-E62E73046F5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "app", "app", "{963ACE38-CD60-4FD5-93B3-1510E8E4558C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A098CB21-9CA1-4A4D-AE42-C8FAFA94D056}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{AAB389E2-73B9-45D5-A0A0-5C9C1ACB2914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{9EC2D296-33F9-48D1-91B8-E17D66A85C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCB472E-528F-44E0-9DB3-E62E73046F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCB472E-528F-44E0-9DB3-E62E73046F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCB472E-528F-44E0-9DB3-E62E73046F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCB472E-528F-44E0-9DB3-E62E73046F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC2D296-33F9-48D1-91B8-E17D66A85C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC2D296-33F9-48D1-91B8-E17D66A85C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC2D296-33F9-48D1-91B8-E17D66A85C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC2D296-33F9-48D1-91B8-E17D66A85C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ADCB472E-528F-44E0-9DB3-E62E73046F5F} = {963ACE38-CD60-4FD5-93B3-1510E8E4558C}
+		{AAB389E2-73B9-45D5-A0A0-5C9C1ACB2914} = {A098CB21-9CA1-4A4D-AE42-C8FAFA94D056}
+		{9EC2D296-33F9-48D1-91B8-E17D66A85C8F} = {AAB389E2-73B9-45D5-A0A0-5C9C1ACB2914}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D214D7D7-A757-41FF-9395-5E90CC4B1037}
+	EndGlobalSection
+EndGlobal
