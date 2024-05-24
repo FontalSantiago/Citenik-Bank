@@ -1,6 +1,6 @@
 # <Citenik-Bank-Backend>
 
-## Índice (opcional)
+## Índice
 
 - [Instalación](#instalación)
 - [Uso](#uso)
