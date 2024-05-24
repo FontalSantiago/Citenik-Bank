@@ -1,6 +1,6 @@
 # <Citenik-Bank-Backend>
 
-## Índice (opcional)
+## Índice
 
 - [Instalación](#instalación)
 - [Uso](#uso)
@@ -41,7 +41,9 @@ Para poder hacer uso del proyecto, será necesario realizar la conexión con la 
 el repositorio <Nombre del Repo>. Una vez clonado, tendrémos que dirigirnos al archivo appsettings.json, ubicado dentro de la carpeta app del proyecto, y allí realizar
 una serie de cambios.
 
-![appsettings.json](assets/images/conexionBD.png)
+<div align=center>
+  <img src="assets/images/conexionBD.png" alt="drawing" width="500"/>
+</div>
 
 Una vez dentro del archivo appsettings.json tendremos que configurar la conexión con la base de datos local anteriormente clonada. Para eso, deberemos completar la siguiente línea de código:
 
@@ -50,7 +52,9 @@ Una vez dentro del archivo appsettings.json tendremos que configurar la conexió
 Ya realizada esta configuración, lo único que resta antes de poder hacer uso de las diferentes API's del sistema es corroborar el puerto en el que se encuentra
 corriendo la aplicación de Swagger. Para esto ejecutaremos el sistema y observaremos el puerto que este nos índica
 
-![puertoSwagger](assets/images/puertoSwagger.png)
+<div align=center>
+  <img src="assets/images/puertoSwagger.png" alt="drawing" width="500"/>
+</div>
 
 Ya finalizadas estas dos configuraciones, el sistema se encuentra listo para ser utilizado.
 
