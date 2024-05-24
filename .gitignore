@@ -1,7 +1,7 @@
 ﻿################################################################################
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
-
+/CitenikBank/appsettings.json
 .vs/CitenikBank/FileContentIndex
 /CitenikBank/bin
 /CitenikBank/obj
