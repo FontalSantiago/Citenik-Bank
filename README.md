@@ -11,8 +11,6 @@
 
 ## Descripción
 
-Proporcione una breve descripción que explique el qué, el por qué y el cómo de su proyecto. Utilice las siguientes preguntas como guía:
-
 CitenikBank es un proyecto de formación profesional desarrollado para una pasantía laboral que busca **simular el ejercició de una plataforma de negocios virtual** 
 como lo es un banco. Para esto, se desarrollo un **sistema de gestión capaz de permitir la creación, simulación y otorgamiento de prestamos en línea** a clientes previamente registrados en la plataforma. 
 
