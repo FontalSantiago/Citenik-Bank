@@ -2,12 +2,13 @@
 
 ## Índice
 
+- [Descripción](#descripción)
+- [Funciones](#funciones)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Créditos](#créditos)
 - [Licencia](#licencia)
 - [Insignias](#insignias)
-- [Funciones](#funciones)
 
 ## Descripción
 
@@ -92,8 +93,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-
-🏆 Las secciones anteriores son lo mínimo indispensable y su proyecto determinará finalmente el contenido de este documento. También puede considerar agregar las siguientes secciones.
 
 ## Insignias
 
